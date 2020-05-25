@@ -33,6 +33,7 @@
     Refer programme Fibbonaci_generator vs Fibbonaci_function to shows the effectiveness of generator vs function for fabbonaci number calculation.
     
 3. Decorator:
+
 	1. Decorators allow us to wrap another function in order to extend the behaviour of wrapped function, without permanently modifying it.
 	2. Functions are taken as the argument into another function and then called inside the wrapper function.
 	
@@ -47,6 +48,7 @@
 	
 	
 4. Closures:
+
 	Closure is when some data gets attached to the code. So, this value is remembered even when the variable goes out of scope, or the function is removed from the namespace
 	For a closure:
 	1. We must have a nested function.
@@ -62,6 +64,7 @@
 	
 
 5. Context Managers: 
+
 	Context manager is a powerful tool, which helps in allocating and releasing resources precisely. 
 	A ‘with’ statement is used as context manager.
 	
