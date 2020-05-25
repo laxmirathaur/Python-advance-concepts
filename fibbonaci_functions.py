@@ -15,7 +15,7 @@ def fibbo(n):
 
 
 start=time.time()
-print (fibbo(25))
+print (fibbo(35))
 print("total time taken in sec :",time.time()-start)
 
 
